@@ -1,0 +1,32 @@
+#começo {
+    width: 350px;
+    display:block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+html {
+    background-color: #000;
+}
+
+h2, li {
+    color: #fff;
+    text-align: center;
+    font-size: 1.6rem;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    padding: none;
+}
+
+ul{
+    list-style-type: none;
+}
+
+div{
+    border: 8px double rgb(72, 0, 143);
+    border-top-right-radius: 95px;
+    border-top-left-radius: 24px;
+    border-bottom-left-radius: 95px;
+    border-bottom-right-radius: 24px;
+}
